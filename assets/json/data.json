@@ -2,7 +2,7 @@
   {
     "nome": "Go",
     "descricao": "Linguagem de programação compilada, desenvolvida pelo Google, focada em simplicidade, concorrência e performance de sistemas.",
-    "data_criacao": "2009",
+    "ano": "2009",
     "link": "https://golang.org/",
     "tags": [
       "linguagem_de_programacao",
@@ -15,7 +15,7 @@
   {
     "nome": "React",
     "descricao": "Biblioteca JavaScript declarativa e eficiente para construir interfaces de usuário, mantida pelo Facebook e uma grande comunidade.",
-    "data_criacao": "2013",
+    "ano": "2013",
     "link": "https://reactjs.org/",
     "tags": [
       "framework_frontend",
@@ -27,7 +27,7 @@
   {
     "nome": "MongoDB",
     "descricao": "Banco de dados NoSQL orientado a documentos, projetado para escalabilidade e desenvolvimento de aplicações modernas.",
-    "data_criacao": "2009",
+    "ano": "2009",
     "link": "https://www.mongodb.com/",
     "tags": [
       "banco_de_dados",
@@ -39,7 +39,7 @@
   {
     "nome": "Spring Boot",
     "descricao": "Framework que simplifica a criação de aplicações baseadas em Spring, minimizando a configuração boilerplate para microsserviços e APIs.",
-    "data_criacao": "2014",
+    "ano": "2014",
     "link": "https://spring.io/projects/spring-boot",
     "tags": [
       "framework_backend",
@@ -51,7 +51,7 @@
   {
     "nome": "Swift",
     "descricao": "Linguagem de programação multiparadigma desenvolvida pela Apple para o desenvolvimento de aplicativos iOS, macOS, watchOS e tvOS.",
-    "data_criacao": "2014",
+    "ano": "2014",
     "link": "https://www.swift.org/",
     "tags": [
       "linguagem_de_programacao",
@@ -63,7 +63,7 @@
   {
     "nome": "Vue.js",
     "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e integração.",
-    "data_criacao": "2014",
+    "ano": "2014",
     "link": "https://vuejs.org/",
     "tags": [
       "framework_frontend",
@@ -76,7 +76,7 @@
   {
     "nome": "Docker",
     "descricao": "Plataforma para desenvolver, enviar e executar aplicações dentro de containers, isolando o software de seu ambiente.",
-    "data_criacao": "2013",
+    "ano": "2013",
     "link": "https://www.docker.com/",
     "tags": [
       "virtualizacao",
@@ -88,7 +88,7 @@
   {
     "nome": "Kubernetes",
     "descricao": "Sistema open-source para automatizar a implantação, escalonamento e gerenciamento de aplicações em containers.",
-    "data_criacao": "2014",
+    "ano": "2014",
     "link": "https://kubernetes.io/",
     "tags": [
       "orquestracao",
@@ -101,7 +101,7 @@
   {
     "nome": "PostgreSQL",
     "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional open-source focado em extensibilidade e conformidade com padrões SQL.",
-    "data_criacao": "1996",
+    "ano": "1996",
     "link": "https://www.postgresql.org/",
     "tags": [
       "banco_de_dados",
@@ -113,7 +113,7 @@
   {
     "nome": "AWS Lambda",
     "descricao": "Serviço de computação serverless da Amazon Web Services (AWS) que executa código em resposta a eventos sem gerenciar servidores.",
-    "data_criacao": "2014",
+    "ano": "2014",
     "link": "https://aws.amazon.com/lambda/",
     "tags": [
       "serverless",
@@ -125,7 +125,7 @@
   {
     "nome": "Rust",
     "descricao": "Linguagem de programação focada em segurança, concorrência e alta performance, ideal para sistemas operacionais e motores de jogos.",
-    "data_criacao": "2010",
+    "ano": "2010",
     "link": "https://www.rust-lang.org/",
     "tags": [
       "linguagem_de_programacao",
@@ -137,7 +137,7 @@
   {
     "nome": "TypeScript",
     "descricao": "Superset de JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro, melhorando a escalabilidade do código.",
-    "data_criacao": "2012",
+    "ano": "2012",
     "link": "https://www.typescriptlang.org/",
     "tags": [
       "superset_javascript",
@@ -149,7 +149,7 @@
   {
     "nome": "Kafka",
     "descricao": "Plataforma de streaming de eventos distribuída que permite publicar, assinar, armazenar e processar fluxos de dados em tempo real.",
-    "data_criacao": "2011",
+    "ano": "2011",
     "link": "https://kafka.apache.org/",
     "tags": [
       "sistema_de_mensageria",
@@ -161,7 +161,7 @@
   {
     "nome": "Jenkins",
     "descricao": "Servidor de automação open-source amplamente utilizado para construir, testar e implantar projetos de software continuamente (CI/CD).",
-    "data_criacao": "2011",
+    "ano": "2011",
     "link": "https://www.jenkins.io/",
     "tags": [
       "ci_cd",
@@ -173,7 +173,7 @@
   {
     "nome": "R",
     "descricao": "Linguagem e ambiente de programação focados em computação estatística, gráficos e análise de dados.",
-    "data_criacao": "1993",
+    "ano": "1993",
     "link": "https://www.r-project.org/",
     "tags": [
       "linguagem_programacao",
@@ -185,7 +185,7 @@
   {
     "nome": "Flutter",
     "descricao": "SDK de UI desenvolvido pelo Google para criar aplicativos nativos, compilados de forma rápida, para mobile, web e desktop a partir de um único código-base.",
-    "data_criacao": "2017",
+    "ano": "2017",
     "link": "https://flutter.dev/",
     "tags": [
       "sdk_ui",
@@ -197,7 +197,7 @@
   {
     "nome": "Node.js",
     "descricao": "Ambiente de tempo de execução JavaScript open-source e multi-plataforma para construir aplicações de rede escaláveis e de backend.",
-    "data_criacao": "2009",
+    "ano": "2009",
     "link": "https://nodejs.org/",
     "tags": [
       "ambiente_runtime",
@@ -209,7 +209,7 @@
   {
     "nome": "Redis",
     "descricao": "Estrutura de dados em memória, usada como cache, banco de dados e message broker, conhecida por sua alta performance e baixa latência.",
-    "data_criacao": "2009",
+    "ano": "2009",
     "link": "https://redis.io/",
     "tags": [
       "banco_de_dados",
@@ -221,7 +221,7 @@
   {
     "nome": "Scrum",
     "descricao": "Estrutura ágil para gerenciar projetos, focada na entrega de valor em ciclos curtos e na adaptação contínua.",
-    "data_criacao": "1990",
+    "ano": "1990",
     "link": "https://www.scrum.org/",
     "tags": [
       "metodologia_agil",
@@ -233,7 +233,7 @@
   {
     "nome": "Terraform",
     "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de nuvem através de arquivos de configuração declarativos.",
-    "data_criacao": "2014",
+    "ano": "2014",
     "link": "https://www.terraform.io/",
     "tags": [
       "iac",
@@ -245,7 +245,7 @@
   {
     "nome": "Microsoft Azure",
     "descricao": "Plataforma de computação em nuvem da Microsoft, oferecendo serviços como computação, análise de dados, armazenamento e rede.",
-    "data_criacao": "2010",
+    "ano": "2010",
     "link": "https://azure.microsoft.com/",
     "tags": [
       "plataforma_nuvem",
@@ -257,7 +257,7 @@
   {
     "nome": "TensorFlow",
     "descricao": "Biblioteca open-source desenvolvida pelo Google para aprendizado de máquina e redes neurais, amplamente usada em pesquisa e produção.",
-    "data_criacao": "2015",
+    "ano": "2015",
     "link": "https://www.tensorflow.org/",
     "tags": [
       "machine_learning",
@@ -269,7 +269,7 @@
   {
     "nome": "GraphQL",
     "descricao": "Linguagem de consulta para APIs e um runtime para cumprir essas consultas com seus dados existentes, oferecendo uma alternativa ao REST.",
-    "data_criacao": "2015",
+    "ano": "2015",
     "link": "https://graphql.org/",
     "tags": [
       "linguagem_consulta",
@@ -281,7 +281,7 @@
   {
     "nome": "React Native",
     "descricao": "Framework que permite a construção de aplicativos móveis nativos (iOS e Android) usando React e JavaScript.",
-    "data_criacao": "2015",
+    "ano": "2015",
     "link": "https://reactnative.dev/",
     "tags": [
       "desenvolvimento_mobile",
@@ -293,7 +293,7 @@
   {
     "nome": "Ansible",
     "descricao": "Ferramenta de automação, gerenciamento de configuração e implantação, focada na simplicidade através do uso de YAML e comunicação via SSH.",
-    "data_criacao": "2012",
+    "ano": "2012",
     "link": "https://www.ansible.com/",
     "tags": [
       "automacao",
